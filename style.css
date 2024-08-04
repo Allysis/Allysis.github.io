@@ -22,4 +22,13 @@ p {
     padding: 6px 8px 6px 16px;
     font-size: 15px;
     display: block;
+    color: #f1f1f1;
+    font-family: "Comic Sans MS", "Comic Sans";
+    text-decoration: none;
+}
+
+.content {
+    margin: 0px; 
+    height: 100vh; 
+    text-align: center;
 }
